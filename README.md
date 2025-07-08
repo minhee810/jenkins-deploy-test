@@ -1,4 +1,4 @@
-# 📘 Jenkins를 활용한 GitHub → 로컬 자동 배포 테스트 구성 문서 (with. GPT) - 1차 수정
+# 📘 Jenkins를 활용한 GitHub → 로컬 자동 배포 테스트 구성 문서 (with. GPT) - 2차 수정
 
 ## ✅ 1. 목적
 
